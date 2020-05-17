@@ -12,7 +12,7 @@ Neste repositório está elencado o protótipo que criamos.
 
 Caso queira ver a nossa apresentação(Slides) clique [Aqui](https://docs.google.com/presentation/d/e/2PACX-1vRy_z2qiXaCXqVu4-A_MbQ7OXPnZwHzb1QT_u4tgtmuKRq8dSta91M_-8_17qRHc-GGx6LjSbGY0WUn/pub?start=false&loop=false&delayms=3000&slide=id.p).
 
-Caso queira ver o Pitch que aprentamos clique [Aqui](https://www.youtube.com/watch?v=znCDGIepnic).
+Caso queira ver o Pitch que apresentamos clique [Aqui](https://www.youtube.com/watch?v=znCDGIepnic).
 
 Caso queira saber como foram os eventos organizados pela Techstars ao redor do mundo clique [Aqui](https://covid.startupweekend.org/).
 
